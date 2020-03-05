@@ -4,7 +4,7 @@ public class LabEx2_Q2_CountA {
 public static void main(String[] args){
 
    //example of a word
-   String word = "Kalau kena tampar biar tangan bercincin";
+   String word = "DS Najib Razak Perdana Menteri 1Malaysia! Rakyat didahulukan.";
    
    int A = 0;
    for (int i=0; i < word.length(); i++){
