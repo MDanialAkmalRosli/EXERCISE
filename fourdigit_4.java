@@ -16,16 +16,7 @@ public class fourdigit_4 {
       } 
       
    System.out.println("Sum of the 4 digits is "+ sum);
-   
-   String strA;
-   String strB;
-   
-   strA = new String("The Dog");
-   strB = new String("The Dog");
-   
-   if(strA.equals(strB))
-      System.out.println("This will Print.");
-   
+  
    }
 }
 
