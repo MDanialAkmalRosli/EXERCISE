@@ -1,6 +1,9 @@
+// Question 2 //
+
 public class LabEx2_Q2_CountA {
 public static void main(String[] args){
 
+   //example of a word
    String word = "Kalau kena tampar biar tangan bercincin";
    
    int A = 0;
@@ -9,6 +12,7 @@ public static void main(String[] args){
          A = A + 1;
    }
    
+   //supposed output
    System.out.print("The number of character 'a' in the sentence " +
                     "above is "+ A);
 
