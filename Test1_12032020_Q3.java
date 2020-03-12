@@ -5,6 +5,9 @@ public class Test1_12032020_Q3 {
    String aku = "Anwar Ibrahim"; //First String
    String kau = "Anuar Ibrahim"; //Second String
    
+   System.out.println(aku);
+   System.out.println(kau);
+      
    if (aku.equals(kau)) //Check whether two Strings are equal or not
       System.out.println("The strings are EQUAL.");
    else
