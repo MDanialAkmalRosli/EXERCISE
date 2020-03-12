@@ -13,6 +13,5 @@ public class Test1_12032020_Q3 {
    else
       System.out.println("The strings are DIFFERENT.");
    
-   
    }
 }
